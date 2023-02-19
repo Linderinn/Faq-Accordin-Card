@@ -36,24 +36,24 @@ Any suggestions on how I can improve are welcome!
 
 ### What I learned
 
-First steps in HTML and CSS - solutions compiled from various tutorials that helped me understand the structure, work in VSC, use the program, write the code structure correctly. The use of JavaScript to perform actions aimed at allowing the user to properly operate and view the page element.
+First steps in HTML and CSS - solutions compiled from various tutorials that helped me understand the structure, work in VSC, use the program, write the code structure correctly. The use of JavaScript to perform actions aimed at allowing the user to properly operate and view the page element. <br>
 
-Learning to use GitHub, uploading code on GitHub to the repository.
+Learning to use GitHub, uploading code on GitHub to the repository. <br>
 
 I'm glad you can be here :)
 
 ### Continued development
 
-In order to learn more about how to write correct code, I have read a book called: 
-👉 "HTML and CSS. Design and Build a Website. Front-End Developer's Handbook" by Jon Duckett,
-👉 Pluralsight Course: Front-End Web Development Quick Start With HTML5, CSS, and JavaScript by Shawn Wildermuth,
-👉 Pluralsight Course: JavaScript: Getting Started- Mark Zamoyta
-👉 Youtube- JS, HTML, CSS (CSS Tutorial – Full Course for Beginners- freeCodeCamp.org)
+In order to learn more about how to write correct code, I have read a book called: <br>
+👉 "HTML and CSS. Design and Build a Website. Front-End Developer's Handbook" by Jon Duckett, <br>
+👉 Pluralsight Course: Front-End Web Development Quick Start With HTML5, CSS, and JavaScript by Shawn Wildermuth, <br>
+👉 Pluralsight Course: JavaScript: Getting Started- Mark Zamoyta <br>
+👉 Youtube- JS, HTML, CSS (CSS Tutorial – Full Course for Beginners- freeCodeCamp.org) <br>
 👉 W3 Schools--> JavaScript Documentation
 
-Next step:
-👉 Eduweb: Vue and React Course
-👉 Bootstrap Documentation
+Next step: <br>
+👉 Eduweb: Vue and React Course <br>
+👉 Bootstrap Documentation <br>
 👉 Pluralsight: JavaScript
 
 ### Useful resources
